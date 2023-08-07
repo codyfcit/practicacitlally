@@ -1,0 +1,28 @@
+#info {
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+    padding: 20px;
+
+}
+
+/*Colocamon las imagenes en una tabla centrada*/
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-mascota img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+    margin: 20px;
+}
+
+#info h2{
+    margin: 20px 60px 20px 20px;
+}
+

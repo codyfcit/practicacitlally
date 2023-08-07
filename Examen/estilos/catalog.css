@@ -1,0 +1,78 @@
+
+#agrupar {
+    width: 960px;
+    /*ancho*/
+    margin: 15px auto;
+    /*margen*/
+    text-align: left;
+    /*alinear-texto*/
+
+}
+
+#seccion {
+    float: left;
+    width: 660px;
+    margin: 20px 0px 10px;
+    text-align:justify;
+}
+
+article {
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #a2b3d8;
+    border: 2px solid #005e90;
+    margin-bottom: 15px;
+
+}
+
+#A2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #d8a2ce;
+    border: 2px solid #90007a;
+    margin-bottom: 15px;
+}
+
+#A3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #a2d8a2;
+    border: 2px solid #249000;
+    margin-bottom: 15px;
+}
+
+#A4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #bea2d8;
+    border: 2px solid #6a0090;
+    margin-bottom: 15px;
+}
+
+#A5 {
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #d8c6a2;
+    border: 2px solid #902e00;
+    margin-bottom: 15px;
+}
+
+#columna{
+float: left;
+width: 220px;
+margin: 20px 22px 10px;
+border: 2px solid lightslategray;
+padding: 10px;
+background: #6289b3;
+}
+
+#blog h3{
+    font-size: 2.2em;
+    text-shadow: 2px 2px 4px rgb(52, 148, 121);
+    margin-bottom: 20px;
+    padding-top: 60px;
+    margin-top: 20px;
+}
+article{
+    padding: 20px;
+}

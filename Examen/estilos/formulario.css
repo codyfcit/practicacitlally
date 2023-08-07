@@ -1,0 +1,77 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.formulario {
+    background-color: rgb(145, 175, 200);
+    width: min(100%);
+    padding: 20px;
+}
+
+main {
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-top: 90px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+main h2{
+    font-size: 1.5em;
+margin-bottom: 20px;
+}
+
+fieldset {
+    border: none;
+}
+
+legend {
+    text-align: center;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: #000;
+}
+
+.campo {
+    margin-bottom: 1rem;
+}
+
+.campo label {
+    color: rgb(255, 255, 255);
+    font-weight: .5rem;
+    /*Grosor de la fuente*/
+
+}
+
+.campo textarea {
+    height: 15rem;
+}
+
+.input-type {
+    width: 100%;
+    border: none;
+    padding: .5rem;
+    border-radius: .8rem;
+    height: 2rem;
+}
+
+.boton{
+    background-color:plum;
+    color: rgb(255, 255, 255);
+    padding: 1rem, 3rem;
+    margin-top: 3rem;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: .5rem;
+    width: 100%;
+    text-align: center;
+}
+
+.p{
+    color: rgb(71, 67, 67);
+    font-size:small;
+} 
